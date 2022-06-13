@@ -1,0 +1,27 @@
+h2 {
+    color: cadetblue;
+    background-color: coral;
+}
+
+#title {
+    color: darkgoldenrod;
+    background-color: fuchsia;
+}
+
+.lorem {
+    color: lightcoral;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 30px;
+    color: antiquewhite;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
