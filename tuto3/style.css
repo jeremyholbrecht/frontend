@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid #e04b5a;
+    border-collapse: collapse;
+}
+
+td,th{
+    padding: 10px;
+}
+
+table{
+    margin:30px;
+}
+
+#table2{
+    background-color: forestgreen;
+    color:mediumturquoise;
+}
+
+#table2 th, td:nth-child(1){
+    color:gainsboro;
+}
