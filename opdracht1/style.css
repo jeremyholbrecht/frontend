@@ -60,9 +60,7 @@ body{
     background-color: #654534;
 }
 
-td>p{
-    background-color:#9c563d;
-}
+
 
 footer>div{
     display: flex;
@@ -72,5 +70,6 @@ footer>div{
 
 footer>div>ul{
     display: flex;
+    justify-content: end;
     list-style: none;
 }
